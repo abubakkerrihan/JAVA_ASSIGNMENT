@@ -1,0 +1,21 @@
+package oneC;
+import java.util.*;
+
+public class IterateFromPosition {
+    public static void main(String[] args) {
+        LinkedList<String> list = new LinkedList<>();
+
+        list.add("Red");
+        list.add("Blue");
+        list.add("Green");
+        list.add("Yellow");
+
+        // Start from 2nd position (index 1)
+        ListIterator<String> iterator = list.listIterator(1);
+
+        System.out.println("Elements from 2nd position:");
+        while (iterator.hasNext()) {
+            System.out.println(iterator.next());
+        }
+    }
+}

@@ -1,0 +1,23 @@
+package four;
+import javax.swing.*;
+import java.awt.*;
+
+public class HelloSwing {
+    public static void main(String[] args) {
+
+        JFrame frame = new JFrame("Hello Swing");
+        JLabel label = new JLabel("Hello! VI A, Welcome to Swing Programming");
+
+        // Set font and color
+        label.setFont(new Font("Arial", Font.PLAIN, 32));
+        label.setForeground(Color.BLUE);
+
+        // Center alignment
+        label.setHorizontalAlignment(JLabel.CENTER);
+
+        frame.add(label);
+        frame.setSize(600, 200);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setVisible(true);
+    }
+}
