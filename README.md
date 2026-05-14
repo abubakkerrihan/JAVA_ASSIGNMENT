@@ -41,3 +41,13 @@
 4b:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/bad7abe564360ac287dbb177184e3d83953535f3/output_4b.png
 
 4c:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/f3a0210e87a61b2ced7e90aff469772a96a7bed4/output_4c.png
+
+5a1:-
+
+5a2:-
+
+5b:-
+
+5c1:-
+
+5c2:-
