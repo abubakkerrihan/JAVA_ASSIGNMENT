@@ -36,3 +36,5 @@
 
 3C5:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/0468bfaf508db616cbd6744de6d5c8a3bc882a9d/output_3c5.png
 
+4a:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/86e926fb356e6546810ba612f35e4b4259a1a2df/output_4a.png
+
