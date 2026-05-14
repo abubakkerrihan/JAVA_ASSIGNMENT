@@ -44,7 +44,7 @@
 
 5a1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/d79ff8c84ceb9be1a77411890bef209957a03fe3/output_5a1.png
 
-5a2:-
+5a2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/0a2bb3955d78ed9f9b62c87cb6eaf11ad478b9ae/output_5a2.png
 
 5b:-
 
