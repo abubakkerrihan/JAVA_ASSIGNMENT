@@ -24,6 +24,7 @@
 
 3b4:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/f8028166da5108462caf5c8d4fb9aa4e9627cf65/output_3b4.png
 
+3b5:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/b2f4dffbce13be04c68268d6d7f1bb1178e1f4d5/output_3b5.png
+
 3C1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/606f8de710c7d88aa3850af1cb07b83393016f96/output_3c1.png
 
-3b5:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/b2f4dffbce13be04c68268d6d7f1bb1178e1f4d5/output_3b5.png
