@@ -30,7 +30,7 @@
 
 3C2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/bea290d4ffb9de2c8b924e67d963dd3e62ca6a1d/output_3c2.png
 
-3C3:-
+3C3:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/343237e593ba53acb0b6939cc334ba484e11c995/output_3c3.png
 
 3C4:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/486e20878cdd070118ef90c5bf80450183e0c0e2/output_3c4.png
 
