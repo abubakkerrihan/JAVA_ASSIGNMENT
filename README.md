@@ -28,3 +28,11 @@
 
 3C1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/606f8de710c7d88aa3850af1cb07b83393016f96/output_3c1.png
 
+3C2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/bea290d4ffb9de2c8b924e67d963dd3e62ca6a1d/output_3c2.png
+
+3C3:-
+
+3C4:-
+
+3C5:-
+
