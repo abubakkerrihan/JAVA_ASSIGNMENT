@@ -5,3 +5,5 @@
 1.b2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/ba738659bd615126bf98435d9ba0ccf22f617bd0/output_1b2.png
 
 1.b3:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/f07c105543d185ee758c49b6d726dde5b967a415/output_1b3.png
+
+1.b4:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/69f12c945d2effd287df72b383c403b318833edf/output_1b4.png
