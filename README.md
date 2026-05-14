@@ -42,7 +42,7 @@
 
 4c:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/f3a0210e87a61b2ced7e90aff469772a96a7bed4/output_4c.png
 
-5a1:-
+5a1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/d79ff8c84ceb9be1a77411890bef209957a03fe3/output_5a1.png
 
 5a2:-
 
