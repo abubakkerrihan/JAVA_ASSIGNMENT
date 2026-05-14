@@ -50,4 +50,4 @@
 
 5c1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/a94c42f4274bd625e3e8b3213f725de53ea53f69/output_5c1.png
 
-5c2:-
+5c2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/388a72f0504c96ada04f46bc2a5980a5421d825b/output_5c2.png
