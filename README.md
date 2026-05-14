@@ -38,5 +38,5 @@
 
 4a:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/86e926fb356e6546810ba612f35e4b4259a1a2df/output_4a.png
 
-4b:-
+4b:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/bad7abe564360ac287dbb177184e3d83953535f3/output_4b.png
 
