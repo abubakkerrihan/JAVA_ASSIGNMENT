@@ -21,3 +21,5 @@
 3b2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/4dfa15589eab4926e9c5835a45a225b036be3046/output_3b2.png
 
 3b3:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/0ac47ca7f9ffa8eb838e37750da87f145335a887/output_3b3.png
+
+3b4:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/f8028166da5108462caf5c8d4fb9aa4e9627cf65/output_3b4.png
