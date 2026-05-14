@@ -48,6 +48,6 @@
 
 5b:-
 
-5c1:-
+5c1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/a94c42f4274bd625e3e8b3213f725de53ea53f69/output_5c1.png
 
 5c2:-
