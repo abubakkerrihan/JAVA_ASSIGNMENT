@@ -11,3 +11,5 @@
 1.b5:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/b822a9e64e520f254af3dfb917bb4a5a2d83295c/output_1b5.png
 
 2a:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/ff6e516a77528f08be4f72ab94c5fb950f73a6ae/output_2a.png
+
+2b:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/fa3e5913c08a963668d74c95a9de54ea3ce5b737/output_2b.png
