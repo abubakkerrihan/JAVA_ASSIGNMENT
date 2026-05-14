@@ -32,7 +32,7 @@
 
 3C3:-
 
-3C4:-
+3C4:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/486e20878cdd070118ef90c5bf80450183e0c0e2/output_3c4.png
 
 3C5:-
 
