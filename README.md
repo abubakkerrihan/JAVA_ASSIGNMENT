@@ -56,6 +56,8 @@
 
 6a2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/abb6866ee63101bd3e3c27be498969a57f9231b5/output_6a2.png
 
+6c1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/6c08a38d9bd70ead2921b28ca5328adeb38e5954/output_6c1.png
+
 
 
 
