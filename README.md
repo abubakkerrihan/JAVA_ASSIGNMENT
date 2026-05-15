@@ -46,10 +46,22 @@
 
 5a2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/0a2bb3955d78ed9f9b62c87cb6eaf11ad478b9ae/output_5a2.png
 
-6a1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/f6ec843ea065beaeb265851c2601b9ba527ed0c5/output_6a1.png
-
 5b:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/ba19184a22c5c58c49f1eaaa43b756f794b49d5e/output_5b.png
 
 5c1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/a94c42f4274bd625e3e8b3213f725de53ea53f69/output_5c1.png
 
 5c2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/388a72f0504c96ada04f46bc2a5980a5421d825b/output_5c2.png
+
+6a1:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/f6ec843ea065beaeb265851c2601b9ba527ed0c5/output_6a1.png
+
+6a2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/abb6866ee63101bd3e3c27be498969a57f9231b5/output_6a2.png
+
+
+
+
+
+
+
+
+
+
