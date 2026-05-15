@@ -72,5 +72,7 @@
 
 8b:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/b25b8d0710744eb9f5a3131b9437b166b1252ad8/8b_2output.png
 
+8c:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/41a96ce211f27ce8be1fdd9c1b6b93444dd2724c/9a_1output.png
+
 
 
