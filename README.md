@@ -80,5 +80,6 @@
 
 9b:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/ac3e025ef61c3b0c8d27c57aed6b745eebfce752/9c_1output.png
 
+9b:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/6931e9b0965980e278ec7a3ee3c9a5917860319a/9c_2output.png
 
 
