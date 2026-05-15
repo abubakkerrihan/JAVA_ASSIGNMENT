@@ -84,3 +84,4 @@
 
 10a:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/6c6a5fb1590165dcc90070f0ec36ffdcdaf478e5/10a_1output.png
 
+10a:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/9a815083ec1c45f40e50ca9d7a790ed15271a3d7/10a_2output.png
