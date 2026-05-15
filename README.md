@@ -60,6 +60,8 @@
 
 6c2:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/65b8d445cdaaf9ebcf7449810b0edda5be49a06a/7A.PNG
 
+7a:-https://github.com/abubakkerrihan/JAVA_ASSIGNMENT/blob/83d05272ab4b1482c08c7093e2329d1e49e99e0c/7A.PNG
+
 
 
 
